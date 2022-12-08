@@ -16,5 +16,11 @@
     "url": "https://github.com/Vihaes/hexlet-js/issues"
   },
   "homepage": "https://github.com/Vihaes/hexlet-js#readme",
-  "description": "my_test_project_on_js"
+  "description": "my_test_project_on_js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "babel-install": "2.1.0"
+  }
 }
